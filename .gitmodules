@@ -1,0 +1,6 @@
+[submodule "cedar"]
+	path = cedar
+	url = git@github.com:pivotal/cedar.git
+[submodule "viewdeck"]
+	path = viewdeck
+	url = git@github.com:Inferis/ViewDeck.git
